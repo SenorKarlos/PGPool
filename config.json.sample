@@ -11,6 +11,6 @@
   "account_release_timeout": 120,
   "max_queue_size": 50
   "max_queue_size": 50,
-  "wh_filter": "Your wh file",
+  "wh_filter": "",
   "wh_threads": 1
 }
