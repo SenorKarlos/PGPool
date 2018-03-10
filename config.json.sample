@@ -9,5 +9,7 @@
   "db_max_connections": 20,
   "log_updates": true,
   "account_release_timeout": 120,
-  "max_queue_size": 50
+  "max_queue_size": 50,
+  "wh_filter": "",
+  "wh_threads": 1
 }
